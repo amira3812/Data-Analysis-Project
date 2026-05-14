@@ -1,7 +1,7 @@
-# 📊 Sales Data Analysis and Dashboard using MS Excel
-<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Dashboard1.png" alt="Dashboard Preview" width=900 > </p> 
-<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Dashboard2.png" alt="Dashboard Preview" width=900 > </p> 
-<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Dashboard3.png" alt="Dashboard Preview" width=900 > </p> 
+# 📊 Sales Data Analysis and Interactive Dashboard using Excel
+<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Assets/Dashboard1.png" alt="Dashboard Preview" width=900 > </p> 
+<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Assets/Dashboard2.png" alt="Dashboard Preview" width=900 > </p> 
+<p align="center"> <img src="https://github.com/amira3812/Data-Analysis-Project/blob/main/Assets/Dashboard3.png" alt="Dashboard Preview" width=900 > </p> 
 <p align="center"> End-to-end sales data analysis project using Microsoft Excel for business insights, KPI tracking, and interactive dashboard reporting. </p> 
 
 ## 📌 Overview
@@ -23,8 +23,7 @@ This project demonstrates practical data analysis and business intelligence skil
 The dataset contains transactional retail sales data collected from multiple branches across four different years.    
 Each year in the dataset represents sales transactions recorded for a single day rather than a continuous yearly dataset, covering multiple branches, product lines, customer types, sales transactions, returns, ratings, and profitability metrics.     
 
-Dataset Source:
-[Dataset Link Here]
+Dataset Source:		<a href="https://github.com/amira3812/Data-Analysis-Project/blob/main/Sales%20Raw%20Data.xlsx"> [Link here] </a> 
 
 ## 🛠️ Tools & Technologies
 	• 	Microsoft Excel
@@ -84,22 +83,26 @@ Dataset Source:
 ## 📌 Final Conclusion & Recommendations
 The analysis revealed several important business insights across sales, profitability, and returns performance over multiple years. 
 
-	•	Despite the continuous growth in total sales over the four-year period, the relationship between sales, profit, and costs remained highly consistent.
-		Profit represented approximately 25% of total sales, while COGS consistently accounted for nearly 75%, indicating stable operational margins over time.   
+	• Despite the continuous growth in total sales over the four-year period, the relationship between sales, profit, 
+	  and costs remained highly consistent. Profit represented approximately 25% of total sales, 
+	  while COGS consistently accounted for nearly 75%, indicating stable operational margins over time.   
 	
-	•	Sales performance showed an overall positive upward trend compared to previous years. However, return rates also increased alongside sales growth,
-		highlighting the importance of improving product quality control and return management strategies.    
+	• Sales performance showed an overall positive upward trend compared to previous years. 
+	  However, return rates also increased alongside sales growth, highlighting the importance of improving product quality 
+	  control and return management strategies.    
 	
-	•	The Food and Beverages product line requires further business attention, as it recorded the lowest sales performance while simultaneously generating the
-		highest number of returns in the latest year. This may indicate issues related to product quality, customer satisfaction, or inventory management.  
+	• The Food and Beverages product line requires further business attention, as it recorded the lowest sales performance 
+	  while simultaneously generating the highest number of returns in the latest year. 
+	  This may indicate issues related to product quality, customer satisfaction, or inventory management.  
 	
-	•	Customer purchasing behavior appeared relatively balanced between customer types, with:  
+	• Customer purchasing behavior appeared relatively balanced between customer types, with:  
 		o	Members contributing approximately 54% of total sales    
 		o	Normal customers contributing around 46%    
-		This suggests that both customer groups play a significant role in overall revenue generation, with no extreme dependency on a single customer segment.   
-		
-	•	Branch and product line comparisons revealed variations in return behavior and sales efficiency, emphasizing opportunities for operational optimization
-		and targeted business improvements.      
+	  This suggests that both customer groups play a significant role in overall revenue generation, with no extreme dependency
+	  on a single customer segment.   
+	
+	• Branch and product line comparisons revealed variations in return behavior and sales efficiency, emphasizing opportunities 
+	  for operational optimization and targeted business improvements.      
 
 Overall, the project demonstrates how Excel-based business analysis can be used to transform raw transactional data into actionable insights that support strategic decision-making.    
 
